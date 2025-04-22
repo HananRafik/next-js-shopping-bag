@@ -1,0 +1,23 @@
+header.app-header{
+    background-color: var(--grey-color);
+
+
+    .wrapper{
+        height: 60px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        ul{
+            display: flex;
+
+            li{
+                margin-left: 20px;
+                font-size: 14px;
+                
+
+            }
+        }
+    }
+}
+
